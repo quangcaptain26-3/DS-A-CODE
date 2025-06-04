@@ -1093,19 +1093,7 @@ clean:
 - 📺 **YouTube** - Channels như MIT OpenCourseWare
 - 📖 **cppreference.com** - C++ documentation
 
----
 
-## 📊 Repository Statistics
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=username&repo=dsa-oop-repo&show_icons=true&theme=radical)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=radical)
-
-</div>
-
----
 
 ## 📜 License
 
